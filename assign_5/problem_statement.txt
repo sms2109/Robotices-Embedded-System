@@ -1,0 +1,7 @@
+Design and implement a Python program to generate a geometric pattern by applying rotational transformation to a base S-shaped curve.
+Given a parametric representation of an S-curve in a 2D Cartesian plane, the program should:
+
+1. Rotate the curve about the origin by a fixed angular increment
+2. Apply the standard 2D rotation transformation at each step
+3. Plot all rotated instances to form a symmetric artistic pattern
+4. Maintain equal axis scaling to preserve the curve geometry

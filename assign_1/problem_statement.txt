@@ -1,0 +1,7 @@
+Design and implement a Python program to model and visualize a 2D robotic arm consisting of two rigid links connected by revolute joints.
+Given the lengths of the two links and fixed joint coordinates, the program should:
+
+1. Plot the robotic arm in a 2D Cartesian plane
+2. Clearly show each link and joint
+3. Maintain equal axis scaling for accurate geometry
+4. Display the complete arm structure with proper labels and grid

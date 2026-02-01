@@ -1,0 +1,6 @@
+--- Coordinates after 45° Rotation ---
+Bottom Left: (21.21, 35.36)
+Bottom Right: (28.28, 42.43)
+Top Right: (14.14, 56.57)
+Peak: (3.54, 60.10)
+Top Left: (14.14, 42.43)

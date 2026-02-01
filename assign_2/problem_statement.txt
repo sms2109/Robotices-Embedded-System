@@ -1,0 +1,7 @@
+Develop a Python program to rotate a 2D geometric shape about the origin by a specified angle using rotation transformation equations.
+Given a set of vertices representing a 2D object and a rotation angle in degrees, the program should:
+
+1. Apply absolute rotation using trigonometric rotation formulas
+2. Compute new coordinates of all vertices after rotation
+3. Plot both the original and rotated shapes on the same graph
+4. Preserve the shape geometry using equal axis scaling

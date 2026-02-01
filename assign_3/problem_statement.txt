@@ -1,0 +1,8 @@
+Design and implement a Python program to animate the absolute rotation of a 2D geometric object about the origin using rotation transformation principles.
+Given a set of Cartesian coordinates representing the vertices of a hut-shaped object, the program should:
+
+1. Apply the standard 2D rotation transformation to the object
+2. Continuously rotate the object through angles from 0° to 360°
+3. Update and display the rotated shape at each step using animation
+4. Plot both the outline and filled region of the object
+5. Maintain equal axis scaling to preserve geometric accuracy

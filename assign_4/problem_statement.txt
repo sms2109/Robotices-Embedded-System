@@ -1,0 +1,7 @@
+Design and implement a Python program to simulate and animate the motion of a 3-link planar robotic arm using forward kinematics.
+Given the lengths of three rigid links connected by revolute joints at a common base, the program should:
+
+1. Compute the position of each joint using trigonometric relationships
+2. Animate the continuous rotation of each link with time-varying joint angles
+3. Display the real-time configuration of the robotic arm in a 2D Cartesian plane
+4. Maintain equal axis scaling to preserve geometric accuracy
